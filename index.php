@@ -9,7 +9,7 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="SMBoard">
     <meta property="og:description" content="PHP연습을 위한 게시판 사이트입니다.">
-    <meta property="og:url" content="http://floor5th.iptime.org/SMBoard">    
+    <meta property="og:url" content="//floor5th.iptime.org/SMBoard">    
     <meta name="msapplication-TileColor" content="#ffc40d">
     <meta name="theme-color" content="#ffffff">
     
@@ -22,6 +22,6 @@
     <title>Welcome to SMBoard</title>
 </head>
 <body>
-    
+    Hello World
 </body>
 </html>
